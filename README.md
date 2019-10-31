@@ -2,7 +2,7 @@
 Scraping https://blog.feedspot.com for blogs 
 
 
-# Bot--Scraper--blog.feedspot
+
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
