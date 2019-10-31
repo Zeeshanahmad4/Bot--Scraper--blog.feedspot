@@ -32,7 +32,7 @@ Scraping https://blog.feedspot.com for blogs
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-![Product Name Screen Shot](https://github.com/Zeeshanahmad4/BOT--Hydrafacial/blob/master/main1.jpg)
+![Product Name Screen Shot](https://github.com/Zeeshanahmad4/Bot--Scraper--blog.feedspot/blob/master/4.jpg)
 Scraping https://blog.feedspot.com for blogs
 
 ### Built With
@@ -62,10 +62,10 @@ pip install selenium
 <!-- USAGE EXAMPLES -->
 ## Usage
 You can use this project to scrape blogs from blog.feedspot 
-required csv fileds are :
+required CSV fields are :
 
 ```sh
-name, websiteurl, blogurl, logo2, discreption
+name, web site URL, blog URL, logo2, description
 
 ```
 
