@@ -7,7 +7,7 @@ Scraping https://blog.feedspot.com for blogs
 <br />
 <p align="center">
   <a href="https://github.com/Zeeshanahmad4/BOT--Hydrafacial">
-    <img src="https://github.com/Zeeshanahmad4/My-Path-to-Python/blob/master/multimedia/bot-136-504893.png" alt="Logo" width="120" height="150">
+    <img src="https://github.com/Zeeshanahmad4/My-Path-to-Python/blob/master/multimedia/bot-136-504893.png" alt="Logo" width="120" height="130">
   </a>
   <h3 align="center">Scraper/Bot</h3>
   <h3 align="center">Scraping <a href="https://blog.feedspot.com"> blog.feedspot </a> </h3>
@@ -63,7 +63,11 @@ pip install selenium
 ## Usage
 You can use this project to scrape blogs from blog.feedspot 
 required csv fileds are :
+
+```sh
 name, websiteurl, blogurl, logo2, discreption
+
+```
 
 ## Includes Files
 1. Scraper.py
